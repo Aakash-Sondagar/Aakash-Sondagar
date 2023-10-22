@@ -68,8 +68,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-sondagar/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Aakash_Sondagar/)
 
+<!--
 ## 📈 GitHub Statistics
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Sondagar&theme=github-dark-blue" alt="Aakash-Sondagar" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aakash-Sondagar&theme=github_dark&show_icons=true&locale=en" alt="Aakash-Sondagar" />
 </p>
+ -->

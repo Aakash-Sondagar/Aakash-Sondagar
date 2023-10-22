@@ -3,7 +3,7 @@
 
 </br>
 
-<img align="right" alt="Coding" width="400" height="225" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
+<img align="right" alt="Coding" width="350" height="275" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 
 ## 👨🏻‍💻 &nbsp;About Me

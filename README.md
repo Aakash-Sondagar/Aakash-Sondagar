@@ -15,7 +15,7 @@
 - 📄 &nbsp;Please have a look at my [Résumé](https://instahyre-2.s3-ap-south-1.amazonaws.com/media/resume/2381689/aee3f8baaf/Aakash_Sondagar.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
-## 🛠 &nbsp;Tech Stack Skills
+## 🛠 &nbsp; Skills
 
 **Languages**
 
@@ -50,7 +50,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-## Achievements
+## 🌟 &nbsp; Achievements
 
 - Ranked in Top 10 teams out of 400+ in HackRocket Hackathon
 - Solved 400+ problems on LeetCode 
@@ -59,9 +59,7 @@
 
 ## 🤝🏻 &nbsp; Let's Connect!
 
-<p align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashsondar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aakash-Sondagar) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-sondagar/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Aakash_Sondagar/)
-</p>

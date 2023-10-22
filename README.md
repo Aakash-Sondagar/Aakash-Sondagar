@@ -13,8 +13,6 @@
 - 🧠 Always learning and exploring new technologies
 - 🌱 Currently more about Designing scalable Software Infrastructures
 
-Clearning more about designing scalable backend infrastructures and AWS Infrastructures
-
 ## Skills
 
 **Languages**
@@ -60,4 +58,4 @@ Clearning more about designing scalable backend infrastructures and AWS Infrastr
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-sondagar/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aakash-Sondagar) 

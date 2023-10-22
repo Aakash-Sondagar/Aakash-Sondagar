@@ -6,14 +6,16 @@
 <img align="right" alt="Coding" width="400" height="225" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 
-## About Me 
+## 👨🏻‍💻 &nbsp;About Me
 
 - 👨‍💻 Software Development Engineer based in Mumbai, India
 - ⚡ Passionate about building performant and scalable Software Systems
 - 🧠 Always learning and exploring new technologies
 - 🌱 Currently more about Designing scalable Software Infrastructures
+- 📄 &nbsp;Please have a look at my [Résumé](https://instahyre-2.s3-ap-south-1.amazonaws.com/media/resume/2381689/aee3f8baaf/Aakash_Sondagar.pdf) for more details about me. I'm open to feedback and suggestions!
 
-## Skills
+
+## 🛠 &nbsp;Tech Stack Skills
 
 **Languages**
 
@@ -55,8 +57,11 @@
 - Ranked #1027 in LeetCode Weekly Contest
 - 5⭐ rating in Python and C++ on HackerRank
 
-## Let's Connect!
+## 🤝🏻 &nbsp; Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-sondagar/)
+<p align="center">
+[![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashsondar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aakash-Sondagar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-sondagar/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Aakash_Sondagar/)
+</p>

@@ -1,10 +1,11 @@
-<h1 align="center">Hola 👋, I'm Aakash Sondagar</h1>
+<h1 align="center">Hola 👋, I'm Aakash </h1>
 <h3 align="center">A Software Development Engineer from India</h3>
 
 </br>
 
+<!--
 <img align="right" alt="Coding" width="350" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
-
+-->
 
 ## 👨🏻‍💻 &nbsp;About Me
 

@@ -1,3 +1,5 @@
+<div align="center" ><img  width="300" src="https://cdn.dribbble.com/users/1805542/screenshots/4596376/laptop.gif"  ></div>
+
 <h1 align="center">Hola 👋, I'm Aakash </h1>
 <h3 align="center">A Software Development Engineer from India</h3>
 

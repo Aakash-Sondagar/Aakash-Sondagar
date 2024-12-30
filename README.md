@@ -1,4 +1,4 @@
-mohammed-bahumaish/README.md
+
 ## Aakash Sondagar
 Software Engineer aakashsondar@gmail.com | [Portfolio](https://aakashsondagar.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/aakash-sondagar)
 

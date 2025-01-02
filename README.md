@@ -1,6 +1,6 @@
 
 ## Aakash Sondagar
-Software Engineer aakashsondar@gmail.com | [Portfolio](https://aakashsondagar.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/aakash-sondagar)
+Software Engineer aakashsondar@gmail.com | [Portfolio](https://aakashsondagar.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/aakash-sondagar) | [@AakashSondagar](https://x.com/AakashSondagar)
 
 Hey there! I'm Aakash, You might say I approach coding like a game of chess - strategic, methodical, and always thinking several moves ahead. But unlike chess, in programming, the pawns drink coffee, the knights debug, and the queen is a well-commented function that does all the work!
 
